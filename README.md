@@ -11,7 +11,7 @@
 Meta
 ----
 Author:
-   * **Joseph Wambua** - *Initial work* - [mutuajoseph](https://github.com/mutuajoseph)
+   * **Evalyne Mueke** - *Initial work* - [EvalyneMueke](https://github.com/EvalyneMueke)
 
 
 Status:
